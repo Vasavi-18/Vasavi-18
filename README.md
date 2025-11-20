@@ -18,7 +18,7 @@ Here, I turn my learning into code and my thoughts into possibility.
   - Python & Data Analytics  
   - SEO + Digital Marketing  
   - Technical + Creative Content Writing  
-- 🏏 Passionate about cricket, problem-solving, and real-life inspired projects like **ChampionCampus**
+- 🏏 Passionate about cricket, problem-solving, and real-life inspired projects.
 
 ---
 
