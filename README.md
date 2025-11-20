@@ -12,7 +12,7 @@ Here, I turn my learning into code and my thoughts into possibility.
 
 - 🎓 Computer Science student exploring **Full Stack Development**, **Data Analytics**, and **AI-assisted Writing**
 - 🖋️ Poet & Scriptwriter in Telugu + English — I translate emotions into words
-- 💼 Preparing for roles in **Tech Writing**, **Business Analysis**, and **Creative AI Content**
+- 💼 “Adaptable across multiple domains — from coding to content, analysis to creativity — I embrace roles that challenge and grow me.”
 - 🚀 Currently growing in:
   - Java Full Stack + DSA  
   - Python & Data Analytics  
