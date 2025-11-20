@@ -38,7 +38,7 @@ Here, I turn my learning into code and my thoughts into possibility.
 ## 🛠️ Tech & Tools I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,react,nodejs,git,github,vscode" />
 </p>
 
 ---
