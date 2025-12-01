@@ -78,16 +78,6 @@ Automates image classification using a lightweight ML workflow and clean pipelin
 
 ---
 
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasavi-18&show_icons=true&theme=radical" height="165" />
-  <br/>
- 
-</p>
-
----
-
 ## 🌻 Thanks for stopping by
 
 <p align="center">
