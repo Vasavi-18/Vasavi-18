@@ -14,7 +14,7 @@ Here, I turn my learning into code and my thoughts into possibility.
 - 🖋️ Poet & Scriptwriter in Telugu + English — I translate emotions into words
 - 💼 “Adaptable across multiple domains — from coding to content, analysis to creativity — I embrace roles that challenge and grow me.”
 - 🚀 Currently growing in:
-  - Java Full Stack + DSA  
+  - Java Full Stack.  
   - Python & Data Analytics  
   - SEO + Digital Marketing  
   - Technical + Creative Content Writing  
