@@ -88,15 +88,17 @@ Superpower : Bridging logic and language — code by day, stories by night
 
 <div align="center">
 
-| 🏥 Hospital Management System | 🏏 ChampionCampus |
-|---|---|
-| Full-stack web app streamlining hospital workflows with an integrated AI chatbot for patient queries. Combines Java backend with a clean UI and smart automation. | Cricket tournament management platform built for inter-college events — handles fixtures, results, and team registrations with a user-friendly dashboard. |
-| `Java` `MySQL` `HTML/CSS` `Chatbot` | `JavaScript` `Node.js` `MySQL` |
+ | ☁️ Secure Scalable Web App on AWS                                                                                                                                      | 🏏 Cricket LiveHub (DevOps Dashboard)                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ | Designed and deployed a production-ready web application on AWS leveraging EC2, S3, IAM, and VPC for high availability and security. | A production-ready cricket dashboard deployed using a complete DevOps pipeline. Features automated CI/CD, Docker containerization, AWS EC2 hosting, Nginx reverse proxy, and HTTPS with custom domain. |
+| `AWS` `EC2` `S3` `IAM` `VPC`                                                                                                                              | `HTML` `CSS` `JavaScript` `Docker` `AWS EC2` `GitHub Actions` `Nginx`                                                                                                                                  |
 
-| 🖼️ Image Tagging ML Project | ☁️ Secure Scalable Web App on AWS |
-|---|---|
-| Automates image classification using a lightweight ML pipeline — built during internship. Focuses on clean data preprocessing and accurate label prediction. | Designed and deployed a production-ready web application on AWS leveraging EC2, S3, IAM, and VPC for high availability and security. |
-| `Python` `ML` `Data Pipeline` | `AWS` `EC2` `S3` `IAM` `VPC` |
+| 🖼️ Image Tagging ML Project                                                                                                                                   | 🏥 Hospital Management System                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Automates image classification using a lightweight ML pipeline — built during internship. Focuses on clean data preprocessing and accurate label prediction. | Full-stack web app streamlining hospital workflows with an integrated AI chatbot for patient queries. Combines Java backend with a clean UI and smart automation. |
+| `Python` `ML` `Data Pipeline`  | `Java` `MySQL` `HTML/CSS` `Chatbot`                                                                     
+
+</div>
 
 </div>
 
