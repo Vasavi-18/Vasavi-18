@@ -137,7 +137,7 @@ Superpower : Bridging logic and language — code by day, stories by night
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasavi-18&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasavi-18&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
 </div>
 
