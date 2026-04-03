@@ -123,26 +123,6 @@ Superpower : Bridging logic and language — code by day, stories by night
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vasavi-18&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasavi-18&amp;theme=tokyonight&amp;hide_border=true" />
-
-<br/>
-
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasavi-18&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
-
-</div>
-
----
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                  CONTRIBUTION GRAPH                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
