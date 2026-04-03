@@ -138,20 +138,6 @@ Superpower : Bridging logic and language — code by day, stories by night
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Vasavi-18&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                  WHAT I'M EXPLORING                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
